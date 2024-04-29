@@ -1,0 +1,8 @@
+{
+  "name": "the-breeze",
+  "version": "1.0.0",
+  "description": "An mp3 stream recorder I made to record the smooth sounds of The Breeze w/Kyle Jameson.",
+  "main": "index.js",
+  "author": "Nick Galvez",
+  "license": "MIT"
+}
